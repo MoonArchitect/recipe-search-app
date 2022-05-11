@@ -1,4 +1,4 @@
-Little training project containing: high(ish) performance crawler and scraper in Python and basic node.js backend to provide search functionality over 4500+ recipes.
+Little training project containing: high(ish) performance crawler and scraper in Python, basic node.js backend to provide search functionality over 4500+ recipes, and frontend.
 
 Collaborators:
  - Frontend - [catherine-tao](https://github.com/catherine-tao) | [bilalc3](https://github.com/bilalc3) | me
